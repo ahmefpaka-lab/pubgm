@@ -1,0 +1,37 @@
+{
+ bypassVersion": 1,
+  "libs": "https://raw.githubusercontent.com/ahmefpaka-lab/pubgm/refs/heads/main/games.json",
+  "gamesList": [
+    {
+      "title": "PUBG GLOBAL",
+      "package": "com.tencent.ig",
+      "version": "4.0",
+      "status": "أمنة"
+    },
+    {
+      "title": "PUBG KOREA",
+      "package": "com.pubg.krmobile",
+      "version": "4.0",
+      "status": "أمنة"
+    },
+      {
+        "title": "PUBG VIETNAM",
+        "package": "com.vng.pubgmobile",
+        "version": "4.0",
+        "status": "أمنة"
+      },
+    {
+      "title": "PUBG INDIA",
+      "package": "com.pubg.imobile",
+      "version": "4.0",
+      "status": "أمنة"
+    },
+      {
+        "title": "PUBG INDIA",
+        "package": "com.pubg.imobile",
+        "version": "3.9.0",
+        "status": "أمنة"
+      }
+  
+  ]
+}
