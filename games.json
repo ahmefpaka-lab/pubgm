@@ -1,0 +1,30 @@
+{
+  "bypassVersion": 1,
+  "libs": "https://raw.githubusercontent.com/ahmefpaka-lab/pubgm/refs/heads/main/games.json",
+  "gamesList": [
+    {
+      "title": "النسخة العالمية",
+      "package": "com.tencent.ig",
+      "version": "4.0",
+      "status": "أمنة"
+    },
+    {
+      "title": "النسخة الكورية",
+      "package": "com.pubg.krmobile",
+      "version": "4.0",
+      "status": "أمنة"
+    },
+    {
+      "title": "النسخة الفيتنامية",
+      "package": "com.vng.pubgmobile",
+      "version": "4.0",
+      "status": "أمنة"
+    },
+    {
+      "title": "النسخة الهندية",
+      "package": "com.pubg.imobile",
+      "version": "4.0",
+      "status": "أمنة"
+    }
+  ]
+}
